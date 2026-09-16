@@ -1,0 +1,11 @@
+# 23CSE301 Machine Learning Capstone — Python dependencies (with versions).
+# scikit-learn is pinned to the version used to train/export the model bundle;
+# other pins reflect the environment the notebook was run in.
+numpy==2.2.6
+pandas==2.2.3
+scipy==1.16.3
+scikit-learn==1.8.0
+matplotlib==3.10.7
+seaborn==0.13.2
+joblib==1.5.3
+streamlit==1.40.2

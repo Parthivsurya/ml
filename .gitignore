@@ -1,0 +1,16 @@
+# Course / reference documents (not part of the deliverable)
+23CSE301_ML_26_27_Capstone_Guidelines.pdf
+Kepler_KOI_Presentation_Guide.pdf
+explanation.html
+
+# Duplicate raw dataset at repo root (the tracked copy lives in data/)
+/kepler_koi.csv
+
+# Tooling / environment
+.claude/
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.venv/
+venv/
+.DS_Store
