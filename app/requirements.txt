@@ -1,0 +1,8 @@
+# Pinned so the pickled model (models/koi_classifier.joblib) unpickles correctly.
+# scikit-learn MUST match the version used to export the bundle.
+streamlit==1.40.2
+scikit-learn==1.8.0
+pandas==2.2.3
+numpy==2.2.6
+joblib==1.5.3
+scipy==1.16.3
